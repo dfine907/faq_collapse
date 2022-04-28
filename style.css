@@ -8,6 +8,9 @@ body {
   font-family: 'Muli', sans-serif;
   background-image: url('https://images.unsplash.com/photo-1588415650288-b5b49077dbe3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY1MTE2Nzg0OQ&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080');
   background-color: #c7e5f4;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 h1 {
